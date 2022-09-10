@@ -10,7 +10,7 @@ Cat, Dog, Cow, Duck, Bear, Frog, Snake, Owl
 
 ### Actions
 
-Speak, Walk, Eat, Play
+Speak, Walk, Eat
 
 ### Result1
 
@@ -21,7 +21,7 @@ Eat - kibble, treats, grass, candy, cake, flies, honey, bread, garbage out of th
 ### Result2
 Speak - "and sings a tune.", "recites poetry", "reads Shakespear out loud", "mutters to self", "starts insulting humans", "asks about what's on TV tonight", "and demands to know why the food dish is empty", 
 Walks - "and asks the bartender for a drink.", "and slips on a banana peel.", "and pukes on the rug", "and decides the furniture needs a good scratching.", "and stops to take a nap", "decides to skip instead.", "and takes all the jewelry.
-Eat - "and decides ice cream is better", 
+Eat - "and decides ice cream is better", "and throws up", "and asks for more", "and wants to know what is for dessert", "and decides that they are not hungry", "and says, "this again?", "and accidently spills the food all over the floor".
 
 Example, The bear walks into the hous and decides to skip instead.
 
