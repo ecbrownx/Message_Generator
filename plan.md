@@ -24,3 +24,16 @@ Walks - "and asks the bartender for a drink.", "and slips on a banana peel.", "a
 Eat - "and decides ice cream is better", 
 
 Example, The bear walks into the hous and decides to skip instead.
+
+## Plan
+
+1. Animals Array does not affect other arrays.
+2. Actions Array - Will affect Result1 and Result2 arrays (if/else statement). "Speak" will only allow Result1 and Result2 "speak" options and so forth.
+3. Result1 Array - is the result of the Action Array, continues to Result2.
+4. Results2 Array - is a continuation of Results1 Array.
+
+Animals-->Actions-->Result1 + Result2
+                 \
+                  ->Result1 + Result2
+                  \
+                   ->Result1 + Result2
